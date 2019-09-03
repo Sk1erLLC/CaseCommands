@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "case_commands",
+    "name": "Case Commands",
+    "description": "Make commands work despite capitalization",
+    "version": "1.0",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Sk1erLLC"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
