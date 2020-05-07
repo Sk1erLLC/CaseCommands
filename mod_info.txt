@@ -1,4 +1,4 @@
-<p><b>This has been superseded by <a href="https://sk1er.club/mods/patcher">Patcher</a></b>
+<p><b>This has been superseded by <a href="https://sk1er.club/mods/patcher">Patcher.</a></b></p>
 <br>
 <p>CaseCommands allows you to use caps when using commands.</p>
 <br>
